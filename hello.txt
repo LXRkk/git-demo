@@ -9,6 +9,7 @@ hello git! master test
 hello git! hot-fix test
 online edit in github!
 edit second time in github!
+edit third time in github!
 22222222222 by git-clone
 33333333333 in github2!
 相信自己一定能成！
